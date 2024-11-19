@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "aula18-bootcamp-python"
+version = "0.1.0"
+description = ""
+authors = ["Victor Contreras <vgabriel@mslcorporate.com.br>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+sqlalchemy = "^2.0.36"
+alembic = "^1.14.0"
+fastapi = "^0.115.5"
+pydantic = "^2.9.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
