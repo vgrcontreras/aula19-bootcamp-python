@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "aula18-bootcamp-python"
+name = "aula19-bootcamp-python"
 version = "0.1.0"
 description = ""
 authors = ["Victor Contreras <vgabriel@mslcorporate.com.br>"]
